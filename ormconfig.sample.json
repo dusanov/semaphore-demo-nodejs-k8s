@@ -1,9 +1,9 @@
 {
   "type": "postgres",
-  "host": "localhost",
+  "host": "35.239.89.214",
   "port": 5432,
   "username": "demouser",
-  "password": "qwerty",
+  "password": "demouser",
   "database": "demo",
   "synchronize": false,
   "migrationsRun": true,
